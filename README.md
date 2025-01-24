@@ -22,7 +22,7 @@ Linguagem: Java e SQL
 
 Framework: Spring Boot 4
 
-Teste de API: Postman
+Teste de Requisições: Postman
 
 Banco de Dados: H2 (em memória)
 
